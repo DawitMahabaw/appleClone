@@ -30,6 +30,7 @@ No build tools or dependencies are required — this is a static site.
 ### Run locally
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/DawitMahabaw/appleClone.git
    cd appleClone
@@ -37,16 +38,17 @@ No build tools or dependencies are required — this is a static site.
 
 2. Open `index.html` in your browser:
    - **Double-click** `index.html` in your file explorer, or
-   - Use the **Live Server** extension in VS Code (right-click `index.html` → *Open with Live Server*)
+   - Use the **Live Server** extension in VS Code (right-click `index.html` → _Open with Live Server_)
 
 That's it — no `npm install`, no build step.
 
 ## Branches
 
-| Branch | Description |
-|--------|-------------|
-| `master` | Stable base |
+| Branch         | Description                                 |
+| -------------- | ------------------------------------------- |
+| `master`       | Stable base                                 |
 | `hero-banners` | Active development — hero banner components |
+| `and others`   |
 
 ## Contributing
 
