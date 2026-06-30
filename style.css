@@ -1,3 +1,22 @@
+.sixth-section {
+    display: flex;
+    gap: 12px;
+    padding: 12px;
+}
+
+.left,
+.right {
+    flex: 1;
+    height: 580px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding-top: 50px;
+}
+h1{
+    text-align: center;
+}
 /* ── Reset & base ──────────────────────────────────────────────────────── */
 *,
 *::before,
